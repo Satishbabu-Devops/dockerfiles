@@ -2,4 +2,4 @@ FROM almalinux:9
 ENV course="Devops" \
     trainer="satish" \
     duration="3months"
-CMD [ "sleep", "500" ]
+CMD ["sleep", "500"]
